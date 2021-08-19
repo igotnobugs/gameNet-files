@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8551019354283137214
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 344494530587505421, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 377706345290131082, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3819333049055523084, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 4791704753557096268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5387169944549497138, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_Name
+      value: SUVCarControlled Garage
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533291749987847608, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533291749987847608, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: vehicleMovement
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5533291749987847608, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: weaponController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5620194955430976862, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6362310371655597965, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7076306361790901759, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7525613031788853268, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 8451330015467521558, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 3819333049055523084, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 8657020161536140799, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 361734887472744058, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 1365324455892529414, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 2122532409167010745, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 6992662378711658579, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 4822505484830385611, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 6979275264206396250, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: 7799805512324146223, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+    - {fileID: -3685498298408555138, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 7253bbf58182e334c9aaa84aeaedcf26, type: 3}

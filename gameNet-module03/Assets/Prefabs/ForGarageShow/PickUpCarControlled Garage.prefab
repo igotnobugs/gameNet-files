@@ -1,0 +1,142 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8244529804834548026
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1674036019062989841, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: viewIdField
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2809193096126129680, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2827840798903866215, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3515405392241288219, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4561898160297807524, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4841735382727976270, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5017029566221815726, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5017029566221815726, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: vehicleMovement
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5017029566221815726, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: weaponController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5353646231178145033, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6301246235296764683, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6492018266723709154, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6936721939590943313, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6936721939590943313, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7035125432416447429, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7331637635515929508, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7518886968223158013, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7563992706106575919, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_Name
+      value: PickUpCarControlled Garage
+      objectReference: {fileID: 0}
+    - target: {fileID: 8053931774969874499, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8822787365072857744, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6301246235296764683, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 1674036019062989841, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 6492018266723709154, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 2827840798903866215, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 3515405392241288219, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 4561898160297807524, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 4841735382727976270, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 6978146203126493398, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 4976144960136637200, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 7746119900216135947, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+    - {fileID: 5812566731307540176, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: d62ed16d58d3a91419ac69423658c45b, type: 3}

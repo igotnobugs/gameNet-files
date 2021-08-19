@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &679102987229921517
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1023371971776215316, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3638104730036198720, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3638104730036198720, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: vehicleMovement
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3638104730036198720, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: weaponController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3794265334530475666, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4471846805066030848, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4608488353194146581, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5999667032281444364, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6347189023898526887, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7167540225869248405, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8210153154283196714, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_Name
+      value: SportsCarControlled Variant Weaponized Garage
+      objectReference: {fileID: 0}
+    - target: {fileID: 8560693931467412806, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8740587868017168212, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 5654946158789463566, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 1023371971776215316, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 4832549001814568423, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 4482880122893831778, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 3008926909799233822, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 2758454452891784097, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 6501417944735184971, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 8781943951719591379, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 7733815552821402644, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 206098882207527513, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+    - {fileID: 9025949173699183451, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 55d05f481eea1a44aa0ef86bbde28027, type: 3}

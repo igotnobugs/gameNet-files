@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4072321032008345007
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1709234556882346009, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2084828454878999730, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3230737707587334955, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3954471999194074090, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4134415276479648248, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4493897282087540116, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_Name
+      value: SportsCarControlled Garage
+      objectReference: {fileID: 0}
+    - target: {fileID: 4728333676138364330, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: viewIdField
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8095632313407831979, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8188359917952605118, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8865939738129138220, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9066012089332029950, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9066012089332029950, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: vehicleMovement
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 9066012089332029950, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+      propertyPath: weaponController
+      value: 
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 132771106274314928, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 4728333676138364330, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 918027034400319833, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 8186337647804713692, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 7380289397520072096, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 7631959497334069023, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 1554999864800836853, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 3923319657352882541, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 2664403967873521834, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 5580488634792163047, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+    - {fileID: 3670233569762183141, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 223b682e9e354ce4f87a331aaa4b692c, type: 3}

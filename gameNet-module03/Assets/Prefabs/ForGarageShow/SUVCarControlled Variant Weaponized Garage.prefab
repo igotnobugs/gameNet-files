@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7791848616333847319
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 269141658385078024, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 718430670568571619, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2382234062901671470, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_Name
+      value: SUVCarControlled Variant Weaponized Garage
+      objectReference: {fileID: 0}
+    - target: {fileID: 2752409998091465282, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2812010059918107300, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2812010059918107300, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: vehicleMovement
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2812010059918107300, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: weaponController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2816453002516447842, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3005020058382248016, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3712936784738308241, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7994335933156788630, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8001652117505170449, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 2199252059752474890, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 6830985280821091856, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 1436540803053767395, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 7983004384796846438, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 8736680483082919450, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 8554807654801290405, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 776478023116840783, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 2963523549780658903, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 799153808460428358, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 572535557358914355, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+    - {fileID: 2816453002516447842, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 9a94a85e41e7d1d449ca030496a0e2d0, type: 3}

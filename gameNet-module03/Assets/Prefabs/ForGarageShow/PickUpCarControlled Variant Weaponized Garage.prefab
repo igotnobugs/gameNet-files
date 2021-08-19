@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6247282866152367240
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1200928984524004953, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2408742261335563352, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: ObservedComponents.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 5487102804645188313, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6046637914142157805, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6338541590476903308, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6454675279235936266, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6777564962305128116, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6822531199650837606, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_Name
+      value: PickUpCarControlled Variant Weaponized Garage
+      objectReference: {fileID: 0}
+    - target: {fileID: 6822531199650837606, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8356109700078335975, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: isForGarageShow
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8356109700078335975, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: vehicleMovement
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8356109700078335975, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: weaponController
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8943361958286890304, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents:
+    - {fileID: 6999801771932805954, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 2408742261335563352, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 8311425862257775449, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 6713023931753851202, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 1254338849074604846, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 477370723847707730, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 655786686094702317, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 8459871288237038855, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 6233428626227693727, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+    - {fileID: 7420997693897647769, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
+  m_SourcePrefab: {fileID: 100100000, guid: 19bd8e7b895d5ac41a739ca033457a1b, type: 3}
